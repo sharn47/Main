@@ -73,35 +73,34 @@ This project uses a pre trained bert model to predict answers to necessary quest
 [Click here](https://github.com/sharn47/Main/blob/main/34_autoencoder_face_recog.ipynb) to access this project
 
 ## 25)Tsne in Mnisit dataset
-[Click here] to access this project
+[Click here](https://github.com/sharn47/Main/blob/main/35_%20t_sne_mnist_dataset.ipynb) to access this project
 
 ## 26)PCA data visualization in cancer dataset
-[Click here] to access this project
+[Click here](https://github.com/sharn47/Main/blob/main/36_PCA_Dimesnsionality_Reduction_cancer%20data%20.ipynb) to access this project
 
 ## 27)Speed up machine learnings using pca
-[Click here] to access this project
+[Click here](https://github.com/sharn47/Main/blob/main/37__PCA_to_Speed-up_Machine_Learning_Algorithms_MNIST.ipynb) to access this project
 
 ## 28)weather prediction time series
-[Click here] to access this project
+[Click here](https://github.com/sharn47/Main/blob/main/38_weather_lstm.ipynb) to access this project
 
 ## 29)Kmenas data clustering
-[Click here] to access this project
+[Click here](https://github.com/sharn47/Main/blob/main/39_K_means.ipynb) to access this project
 
 ## 30)Image compression using –Kmeans
-[Click here] to access this project
+[Click here](https://github.com/sharn47/Main/blob/main/40_k_means_image%20_compression.ipynb) to access this project
 
 ## 31)Kmeans clustering digits
-[Click here] to access this project
+[Click here](https://github.com/sharn47/Main/blob/main/41_KNN_MNIST.ipynb) to access this project
 
 ## 32)K means iris data clustering
-[Click here] to access this project
-
+[Click here](https://github.com/sharn47/Main/blob/main/42_K_means_irisdata_clustering.ipynb) to access this project
 
 ## 33)Human activity recognition using svm
-[Click here] to access this project
+[Click here](https://github.com/sharn47/Main/blob/main/43_human_activity_recog_svm.ipynb) to access this project
 
 ## 34)SVM visualization Muffin vs Cupcake
-[Click here] to access this project
+[Click here](https://github.com/sharn47/Main/blob/main/44_svm_prediction_scone_vs_cupcake_vs_muffin_poly_rbf.ipynb) to access this project
 
 ## 35)Cnn image classification
-[Click here] to access this project
+[Click here]()https://github.com/sharn47/Main/blob/main/45_CNN_image_classification_flowers.ipynb to access this project
