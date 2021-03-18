@@ -103,4 +103,4 @@ This project uses a pre trained bert model to predict answers to necessary quest
 [Click here](https://github.com/sharn47/Main/blob/main/44_svm_prediction_scone_vs_cupcake_vs_muffin_poly_rbf.ipynb) to access this project
 
 ## 35)Cnn image classification
-[Click here]()https://github.com/sharn47/Main/blob/main/45_CNN_image_classification_flowers.ipynb to access this project
+[Click here](https://github.com/sharn47/Main/blob/main/45_CNN_image_classification_flowers.ipynb) to access this project
