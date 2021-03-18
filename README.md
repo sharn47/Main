@@ -4,7 +4,7 @@ Hello everyone. This repository contains various ML projects that i have delt wi
 
 ## Natural Language Processing
 
-### 1)question answer prediction using BERT
+### 1)Question answer prediction using BERT
   [Click here](https://github.com/sharn47/Main/blob/main/11_Bert_queestion_answer_using_pre_trained.ipynb) to access this project
 This project uses a pre trained bert model to predict answers to necessary questions
 ### 2)Bert model question answer training using squad dataset
@@ -78,7 +78,7 @@ This project uses a pre trained bert model to predict answers to necessary quest
 ## Data Visualization
 
 
-### 23)airplane passenger prediction using time series
+### 23)Airplane passenger prediction using time series
   [Click here](https://github.com/sharn47/Main/blob/main/29_airplane_passenger_predition_using_time_series.ipynb) to access this project
 
 ### 24)Grid search for best model optimization
@@ -93,16 +93,16 @@ This project uses a pre trained bert model to predict answers to necessary quest
 ### 27)Speed up machine learnings using pca
   [Click here](https://github.com/sharn47/Main/blob/main/37__PCA_to_Speed-up_Machine_Learning_Algorithms_MNIST.ipynb) to access this project
 
-### 28)weather prediction time series
+### 28)Weather prediction time series
   [Click here](https://github.com/sharn47/Main/blob/main/38_weather_lstm.ipynb) to access this project
 
-### 29)Kmenas data clustering
+### 29)K means data clustering
 [Click here](https://github.com/sharn47/Main/blob/main/39_K_means.ipynb) to access this project
 
 ### 30)Image compression using –Kmeans
 [Click here](https://github.com/sharn47/Main/blob/main/40_k_means_image%20_compression.ipynb) to access this project
 
-### 31)Kmeans clustering digits
+### 31)K means clustering digits
 [Click here](https://github.com/sharn47/Main/blob/main/41_KNN_MNIST.ipynb) to access this project
 
 ### 32)K means iris data clustering
